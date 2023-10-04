@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Joesef0203
-- 👀 I am interested in machine learning
-- 🌱 I’m still learning machine learning
-- 💞️ I’m looking to collaborate on this website
-- 📫 How to reach me ...
-
-<!---
-Joesef0203/Joesef0203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Final Thesis File About Drone detection with in here there is 4 system.
+The System is
+1. Detection just using YOLOV5
+2. Detection using YOLOV5 and DEEPSORT
+3. Detection using YOLOV5, DEEPSORT, and Background Subtraction
+4. Use two model YOLOV5 (Using Normal Dataset train, and Using Background subtraction model, Deepsort, Background subtraction, and Region of Interest
