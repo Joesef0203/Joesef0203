@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joesef0203
-- 👀 I’m interested in Girl
-- 🌱 I’m currently learning Teknik Dirgantara
+- 👀 I am interested in machine learning
+- 🌱 I’m still learning machine learning
 - 💞️ I’m looking to collaborate on this website
 - 📫 How to reach me ...
 
